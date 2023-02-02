@@ -1,0 +1,17 @@
+name: {{package_name.snakeCase()}}
+description: {{package_name.snakeCase()}} is for the theme of this app
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod:
+  flutter_secure_storage:
+
+dev_dependencies:
+  flutter_lints:
