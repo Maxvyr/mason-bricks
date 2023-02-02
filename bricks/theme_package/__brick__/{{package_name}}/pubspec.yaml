@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_riverpod:
-  flutter_secure_storage:
+  shared_preferences:
 
 dev_dependencies:
   flutter_lints:

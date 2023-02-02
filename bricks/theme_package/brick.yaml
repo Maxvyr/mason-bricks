@@ -25,3 +25,17 @@ vars:
     type: string
     description: Package name
     prompt: What is the name of your theme package ?
+  color:
+    type: enum
+    description: seed color
+    default: blue
+    prompt: Choose the base color for your app ?
+    values:
+      - red
+      - green
+      - blue
+      - amber
+      - yellow
+      - purple
+      - cyan
+      - grey
