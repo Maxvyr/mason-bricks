@@ -1,5 +1,5 @@
-name: {{package_name.snakeCase()}}
-description: {{package_name.snakeCase()}} is for the theme of this app
+name: {{name.snakeCase()}}
+description: theme of the app
 version: 0.0.1
 homepage:
 

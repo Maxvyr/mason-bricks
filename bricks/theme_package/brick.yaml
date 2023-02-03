@@ -21,7 +21,7 @@ environment:
 #  * an optional prompt phrase used when asking for the variable
 #  * a list of values (enums only)
 vars:
-  package_name:
+  name:
     type: string
     description: Package name
     prompt: What is the name of your theme package ?

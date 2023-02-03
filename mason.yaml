@@ -5,3 +5,5 @@ bricks:
   # Run `mason make hello` to try it out.
   theme_package:
     path: ./bricks/theme_package
+  package:
+    path: ./bricks/package
