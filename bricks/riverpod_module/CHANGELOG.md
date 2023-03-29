@@ -1,3 +1,6 @@
+# 0.1.1
+- simply module after use case
+- replace flutter_hooks by flutter riverpod
 # 0.1.0+4
 - fixing provider value variable in repository_impl.dart
 # 0.1.0+3

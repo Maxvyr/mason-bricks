@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class {{name.pascalCase()}}View extends ConsumerWidget {
   /// TODO add your comment here
-  const {{name.pascalCase()}}View({Key? key}) : super(key: key);
+  const {{name.pascalCase()}}View({super.key});
 
   static const routeName = '/{{name.camelCase()}}';
 

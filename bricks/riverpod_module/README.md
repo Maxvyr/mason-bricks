@@ -6,7 +6,7 @@ A brick to produce boilerplate code for new feature using riverpod state managem
 
 ## Prerequisites
 
-Installed version of [hooks_riverpod]
+Installed version of [flutter_riverpod]
 
 ## Usage 🚀
 
@@ -34,12 +34,10 @@ Note: for better usage the output directory should be inside the lib folder.
 │   └── create_account_providers.dart
 ├── repository
 │   ├── create_account_repository.dart
-│   ├── create_account_repository_fake.dart
-│   └── create_account_repository_impl.dart
 ├── view
 │   └── create_account_view.dart
 └── widget
     └── create_account_widget.dart
 ```
 
-[hooks_riverpod]: https://pub.dev/packages/hooks_riverpod
+[flutter_riverpod]: https://pub.dev/packages/flutter_riverpod
